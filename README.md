@@ -12,7 +12,7 @@ Don't worry, we have [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/b
 
 Hmmm... well, we get to know about our password uniqueness by this but it is a good practice to give a chance to the user to enter another password if the previous password is found in the list of hacked passwords.
 
-Again, it depends on the individual's interest. If the passsword is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply enter "STOP"
+Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply enter "STOP"
 when it is prompted to Enter a new password. Once "STOP" is entered the program will be terminated.
 
 Well!! This function is now implemented and is ready to use. [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck_updated.py)
