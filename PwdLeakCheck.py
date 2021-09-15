@@ -1,7 +1,7 @@
 #You will not be able to run this file directly, please copy it onto your computer and run it on your machine (We take inputs from the cmd, *can also do some modifications to take inputs directly.)
 #You will also need to make sure you have installed the requests module from PyPi (pip install)
 
-#To run from terminal: python checkpass.py password1 password2 password3
+#To run from terminal: python3 checkpass.py password1 password2 password3 or python checkpass.py password1 password2 password3
 import requests
 import hashlib
 import sys
