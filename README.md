@@ -1,5 +1,5 @@
 # PwdLeakCheck
-To check how strong are our passwords...
+To check how strong our passwords are...
 This will help you know how many times your password had been hacked if it is found in the list of hacked passwords.
 
 **APPENDIX**
@@ -9,9 +9,9 @@ In General, while signing up we setup our passwords but we need to think - Is th
 
 Well, while setting up the passwords we will only get to know how strong is our new passowrd but we can't know whether it is present in list of hacked passwords.
 
-Don't worry, we have PwdLeakCheck now... Just enter your password and check how many times it had been hacked.
+Don't worry, we have PwdLeakCheck now... Just enter your password and check is it okay to use or how many times it had been hacked.
 
-**Developements/Features add-on**
+**Developements/add-ons**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you find any bug or have some idea about a new feature that can be implemented, you can either open an issue here or you can directly mail me at Techexecutor444@gmail.com.
 
