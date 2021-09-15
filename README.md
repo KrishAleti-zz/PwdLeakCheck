@@ -6,7 +6,7 @@ This will help you know how many times your password had been hacked if it is fo
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In General, while signing up we setup our passwords but we need to think - Is this password good enough/ isn't it present in the list of hacked passwords?
 
-Well, while setting up the passwords we will only get to know how strong is our new passowrd but we can't know whether it is present in list of hacked passwords.
+Well, while setting up the passwords we will only get to know how strong is our new password but we can't know whether it is present in list of hacked passwords.
 
 Don't worry, we have [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) now... Just enter your password and check is it okay to use or how many times it had been hacked.
 
