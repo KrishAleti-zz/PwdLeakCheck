@@ -14,6 +14,7 @@ Don't worry, we have PwdLeakCheck now... Just enter your password and check how 
 **Developements/Features add-on**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you find any bug or have some idea about a new feature that can be implemented, you can either open an issue here or you can directly mail me at Techexecutor444@gmail.com.
+
 Please include the sample queries and their corresponding results.
 
 **Authors**
