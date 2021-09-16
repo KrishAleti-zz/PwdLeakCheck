@@ -19,9 +19,12 @@ It is a good practice to give a chance to the user to enter another password if 
 Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply
 enter "STOP" when it is prompted to Enter a new password. Once "STOP" is entered the program will be terminated.
 
-Well!! Those functions are now implemented and ready to use (CLI is not used here). 
+Well!! Those functions are now implemented and ready to use (CLI is not used here) ---> [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py)
 
-Excited??? Click here:- [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py) and check.
+**Excited???** 
+Click [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) to her multiple passwords at a time from the Command Prompt/CLI 
+and know if your password is present in list of hacked passwords
+Click [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py) to check your passwords one by one.
 
 **Developements/add-ons**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
