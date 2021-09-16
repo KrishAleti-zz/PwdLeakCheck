@@ -23,7 +23,8 @@ Well!! Those functions are now implemented and ready to use (CLI is not used her
 
 **Excited???** 
 Click [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) to her multiple passwords at a time from the Command Prompt/CLI 
-and know if your password is present in list of hacked passwords
+and know if your password is present in list of hacked passwords.
+
 Click [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py) to check your passwords one by one.
 
 **Developements/add-ons**
