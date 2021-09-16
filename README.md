@@ -8,17 +8,22 @@ In General, while signing up we setup our passwords but we need to think - Is th
 
 Well, while setting up the passwords we will only get to know how strong is our new password but we can't know whether it is present in list of hacked passwords.
 
-Don't worry, we have [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) now... Just enter your password and check is it okay to use or how many times it had been hacked.
+Don't worry, we have [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) now... Just enter your password and check is it okay to
+
+use or how many times it had been hacked.
 
 Wooo!!! The best feature is the usage of CLI (Command Line Interface), we can give any number of passwords to perform the check with a click.
 
 Well, we get to know about our password uniqueness by this but... The user may need another chance to check his newly decided password.
+
 It is a good practice to give a chance to the user to enter another password if the previous password is found in the list of hacked passwords.
 
-Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply enter "STOP"
-when it is prompted to Enter a new password. Once "STOP" is entered the program will be terminated.
+Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply
+
+enter "STOP" when it is prompted to Enter a new password. Once "STOP" is entered the program will be terminated.
 
 Well!! Those functions are now implemented and ready to use (CLI is not used here). 
+
 Excited??? Click here:- [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py) and check.
 
 **Developements/add-ons**
