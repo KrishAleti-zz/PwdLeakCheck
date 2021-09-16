@@ -16,12 +16,13 @@ Wooo!!! The best feature is the usage of CLI (Command Line Interface), we can gi
 Well, we get to know about our password uniqueness by this but... The user may need another chance to check his newly decided password.
 It is a good practice to give a chance to the user to enter another password if the previous password is found in the list of hacked passwords.
 
-Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, he/she can simply
+Again, it depends on the individual's interest. If the password is found in the list of hacked passwords and still the user wants to discontinue, user can simply
 enter "STOP" when it is prompted to Enter a new password. Once "STOP" is entered the program will be terminated.
 
 Well!! Those functions are now implemented and ready to use (CLI is not used here) ---> [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py)
 
 **Excited???** 
+
 Click [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck.py) to her multiple passwords at a time from the Command Prompt/CLI 
 and know if your password is present in list of hacked passwords.
 
