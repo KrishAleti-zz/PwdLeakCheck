@@ -57,4 +57,4 @@ Please include the sample queries and their corresponding results.
 
 **Feedback**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you have any feedback, please reach out to me at Techexecutor444@gmail.com.
+If you have any feedback, please reach out to me at Techexecutor444@gmail.com or get me on LinkedIn.
