@@ -27,7 +27,7 @@ Click [PwdLeakCheck](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLea
 
 Click [PwdLeakCheck2.0](https://github.com/KrishAleti/PwdLeakCheck/blob/main/PwdLeakCheck2.0.py) to check your passwords one by one.
 
-**Developements/add-ons**
+**Developments/add-ons**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you find any bug or have some idea about a new feature that can be implemented, you can either open an issue here or you can directly mail me at Techexecutor444@gmail.com.
 
